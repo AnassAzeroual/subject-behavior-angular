@@ -1,5 +1,6 @@
 .a{
-    background: gold;
+    background: #330136;
+    color: white;
     height: 45vh;
     margin: 0;
     padding: 20px;
@@ -12,13 +13,13 @@
 
 .btn {
     border: 0;
-    background: #8BC34A;
+    background: #FF5E35;
     padding: 6px 19px;
     margin: 5px;
     border-radius: 3px;
-    color: #2b2d36;
+    color: #000;
     font-weight: bold;
-    box-shadow: 2px 5px 10px #8bc34aa8;
+    box-shadow: 2px 5px 10px #ff5e3585;
 }
 
 .input {
