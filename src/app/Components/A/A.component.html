@@ -1,0 +1,9 @@
+<div class="a">
+  <h1 class="h1">A</h1>
+  <h3>Message : {{message}} </h3>
+  <div>
+    <input type="text" [(ngModel)]="sharedMessage"> <button (click)='changeMessage()'>share message</button>
+  </div>
+  <app-B></app-B>
+  <app-D></app-D>
+</div>
